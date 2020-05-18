@@ -1,0 +1,39 @@
+  
+html, * {
+    font-family: helvetica;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #player-result, #computer-result {
+      width: 20vh;
+  }
+  #tie-score {
+
+  }
+
+  main {
+    display: flex;
+    justify-content: center;
+  }
+
+  section h1 {
+    font-size: 30px;
+  }
+  
+  section h2 {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
+
+  section h2 {
+      text-align: center;
+      font-size: 22px;
+  }
