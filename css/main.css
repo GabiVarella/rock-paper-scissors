@@ -37,3 +37,16 @@ html, * {
       text-align: center;
       font-size: 22px;
   }
+  
+  #computer-img{
+      height: 50vh;
+      width: 100%;
+      border: 1vmin solid black;
+
+  }
+  #player-img{
+      height: 50vh;
+      width: 100%;
+      border: 1vmin solid black;
+
+  }
